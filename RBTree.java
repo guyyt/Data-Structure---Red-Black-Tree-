@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 /**
 *
-* RBTree
-*
+* RBTree in Java
+*By Guy Yom Tov
 */
 
 public class RBTree {
